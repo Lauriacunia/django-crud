@@ -1,4 +1,4 @@
 ## Django CRUD
 
-[x] Bulma - Css Library
-[x] Mysql - DB
+- [x] Bulma - Css Library
+- [x] Mysql - DB
